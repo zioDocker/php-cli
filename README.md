@@ -1,4 +1,4 @@
-php-cli
+php-cli-xdebug
 ---
 Basic docker php-cli image, coming with **xdebug** and **composer** to debug php code
 
