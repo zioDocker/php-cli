@@ -17,16 +17,16 @@ docker run --rm -v $(pwd):/usr/src/app zio-docker:php-cli72 bash -c "php test.ph
 * Build your image, so u have it on your local system
 * Go to preferences->Languages & Frameworks->PHP and add a new interpreter, choosing Docker
 
-![](Doc/phpstorm-addInterpreter.png =100x)
+![](Doc/phpstorm-addInterpreter.png)
 
 * Always inside the preferences add a new server:
 
-![](Doc/phpstorm-addServer.png =100x)
+![](Doc/phpstorm-addServer.png)
 
 * Now add a remote debug from the dropdown in the right corner of phpstorm
 
-![](Doc/phpstorm-addRemoteDebug.png =100x)
+![](Doc/phpstorm-addRemoteDebug.png)
 
 * Enjoy debugging
 
-![](Doc/phpstorm-debug.png =100x)
+![](Doc/phpstorm-debug.png)
